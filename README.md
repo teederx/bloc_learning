@@ -8,6 +8,6 @@ This is a new counter app.
 - Implemented HydratedBLoC for data persistence.
 
 
-###Sample Shown Below
+
 https://github.com/teederx/bloc_learning/assets/104513255/0cdee0da-6c86-415f-a087-bfd9cc6e857c
 
